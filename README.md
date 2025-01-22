@@ -1,2 +1,1 @@
-# demo-one
-a demo for the git and the github class
+hello world this is mah first readme fle in the git github 
